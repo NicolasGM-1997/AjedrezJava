@@ -10,7 +10,7 @@ public class MainChess extends JFrame{
     public ModoJuego vs = new ModoJuego();
     
     public MainChess(){
-        super("Chess 1");
+        super("Chess_com");
         setSize(625,625);
         setResizable(false);
         setVisible(true);
